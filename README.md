@@ -1,4 +1,4 @@
-### Hi, Im Henrique Almeida 👋
+### Hi there, I'm Henrique Almeida 👋
 
 <!--
 **rikeealmeida/rikeealmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
