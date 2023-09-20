@@ -1,11 +1,11 @@
 ### Hi there, I'm Henrique Almeida 👋
 
 ## A little about myself
-- Im a Software Developer with a degree in information systems, passionate about technology and inovation.
+- Im a Software Developer with a degree in information systems, passionate about technology and innovation.
 - Im currently working as Mobile Developer.
 - I've worked with Flutter, React with typescript, and a bit of Node.
 - I'm always open to learn new things and improve my skills to always deliver more value to the environment in which I'm inserted.
-- Currently learning C# and the .NET ecossystem.
+- Currently learning C# and the .NET ecosystem.
 
 
 ## Tech Stack:
