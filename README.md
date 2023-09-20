@@ -14,7 +14,12 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /> 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikeealmeida&include_all_commits=true&ocunt_private=true&text_color=daf7dc&bg_color=151515)](https://github.com/rikeealmeida/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rikeealmeida&layout=compact)
+
+
+
+
+
 
 <!--
 **rikeealmeida/rikeealmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
