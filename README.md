@@ -2,10 +2,10 @@
 
 ## A little about myself
 - Im a Software Developer with a degree in information systems, passionate about technology and innovation.
-- Im currently working as Mobile Developer.
-- I've worked with Flutter, React with typescript, and a bit of Node.
+- Im currently working as Full Stack Developer with focus on mobile applications.
+- I've worked with Flutter, React and a bit of Node.
 - I'm always open to learn new things and improve my skills to always deliver more value to the environment in which I'm inserted.
-- Currently learning C# and the .NET ecosystem.
+- Currently learning GO.
 
 
 ## Tech Stack:
